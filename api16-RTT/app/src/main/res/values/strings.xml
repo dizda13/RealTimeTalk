@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">api16-RTT</string>
+    <string name="nazovi">NAZOVI</string>
+    <string name="ipAdresa">IP adresa pozivaoca</string>
+</resources>
